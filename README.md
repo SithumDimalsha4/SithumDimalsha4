@@ -1,5 +1,8 @@
 # ʜᴇʟʟᴏ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ❤️🇱🇰
 
+## ʟᴇᴛ's ᴄᴏɴᴇᴄᴛ!
+<p>
+    <a href="https://t.me/TeamDarkDLK" target="blank"><img src="https://img.shields.io/badge/@Team-DLK-30302f?style=flat&logo=telegram" /></a>
 - 👋 Hi, I’m @SithumDimalsha4
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
