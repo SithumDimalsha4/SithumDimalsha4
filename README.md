@@ -2,7 +2,7 @@
 
 Hello 👋  I'm Sithum Dimalsha Jayakody
 
-age-16
+age-15
 
 School -Nalanda boys Collage Minuwangoda
 
