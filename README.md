@@ -15,3 +15,7 @@ Hello 👋  I'm Sithum Dimalsha Jayakody
 ✪ City » Gampha (a popular city)
 ✪ District » Gampha
 ✪ Country » Sri Lanka 🇱🇰
+
+
+<img src="https://telegra.ph/file/9a0d17d25353f4ea7f3be.jpg" align="right" width="200" height="200"/>
+
