@@ -2,10 +2,16 @@
 
 Hello 👋  I'm Sithum Dimalsha Jayakody
 
-age-15
 
-School -Nalanda boys Collage Minuwangoda
+「 About Me 」
 
-City-Minuwangoda
-
-District -Gampha (A popular city)
+✪ Name » Sithum Dimalsha
+✪ Username » @Sithumj
+✪ Age » 15
+✪ Status » Busy
+✪ Relationship Status » Single
+✪ Who am I really » A student
+✪ School » Nalanda boys collage 
+✪ City » Gampha (a popular city)
+✪ District » Gampha
+✪ Country » Sri Lanka 🇱🇰
