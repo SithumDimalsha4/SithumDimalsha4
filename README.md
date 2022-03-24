@@ -15,13 +15,13 @@ Hi  👋
 
 ✪ Age » 16
 
-✪ Status » Busy
+✪ Status » Busy🙎
 
 ✪ Relationship Status » Single
 
-✪ Who am I really » A student
+✪ Who am I really » A student🙋
 
-✪ School » Nalanda boys collage
+✪ School » Nalanda boys collage Minuwangoda 🏫
  
 ✪ City » Gampha (a popular city)
 
