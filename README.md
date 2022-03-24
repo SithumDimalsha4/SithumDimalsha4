@@ -1,6 +1,10 @@
-# ʜᴇʟʟᴏ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ❤️
+# ʜᴇʟʟᴏ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ❤️🇱🇰
 
-Hello 👋  I'm Sithum Dimalsha Jayakody
+<img src="https://telegra.ph/file/9a0d17d25353f4ea7f3be.jpg" align="right" width="200" height="200"/>
+
+
+
+Hi  👋  
 
 
 「 About Me 」
@@ -23,9 +27,5 @@ Hello 👋  I'm Sithum Dimalsha Jayakody
 
 ✪ District » Gampha
 
-✪ Country » Sri Lanka 🇱🇰
-
-
-
-<img src="https://telegra.ph/file/9a0d17d25353f4ea7f3be.jpg" align="right" width="200" height="200"/>
+✪ Country » Sri Lanka🇱🇰
 
